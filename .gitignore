@@ -1,0 +1,6 @@
+app.html
+prepare_data.py
+encrypt_dashboard.py
+*.xlsx
+.DS_Store
+__pycache__/
